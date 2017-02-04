@@ -1,0 +1,25 @@
+/* 
+  LocalizedStrings.strings
+  ALCommon
+
+  Created by andrew lattis on 2/2/17.
+  Copyright © 2017 andrew lattis. All rights reserved.
+*/
+
+/* less than one minute ago timestamp */
+"activity.justNowLabel" = "just now";
+
+/* minutes ago timestamp */
+"activity.minutesAgoLabel" = "%ldm ago";
+
+/* one hour ago timestamp */
+"activity.oneHourAgoLabel" = "1h ago";
+
+/* hours ago timestamp */
+"activity.hoursAgoLabel" = "%ldh ago";
+
+/* one day ago timestamp */
+"activity.oneDayAgoLabel" = "1d ago";
+
+/* days ago timestamp */
+"activity.daysAgoLabel" = "%ldd ago";
